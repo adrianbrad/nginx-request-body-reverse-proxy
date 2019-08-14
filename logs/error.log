@@ -1,0 +1,11 @@
+2019/08/14 09:02:54 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: , request: "POST / HTTP/1.1", upstream: "http://127.0.0.1:3001/", host: "localhost:8080"
+2019/08/14 09:02:54 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: , request: "POST / HTTP/1.1", upstream: "http://127.0.0.1:3001/", host: "localhost:8080"
+2019/08/14 09:03:30 [emerg] 1#1: unknown "brad" variable
+2019/08/14 09:03:52 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: , request: "POST / HTTP/1.1", upstream: "http://127.0.0.1:3001/", host: "localhost:8080"
+2019/08/14 09:03:52 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: , request: "POST / HTTP/1.1", upstream: "http://127.0.0.1:3001/", host: "localhost:8080"
+2019/08/14 09:04:09 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: , request: "POST / HTTP/1.1", upstream: "http://127.0.0.1:3001/", host: "localhost:8080"
+2019/08/14 09:04:09 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: , request: "POST / HTTP/1.1", upstream: "http://127.0.0.1:3001/", host: "localhost:8080"
+2019/08/14 09:05:54 [error] 6#6: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: , request: "POST / HTTP/1.1", upstream: "http://127.0.0.1:3001/", host: "localhost:8080"
+2019/08/14 09:06:03 [error] 6#6: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: , request: "POST / HTTP/1.1", upstream: "http://127.0.0.1:3001/", host: "localhost:8080"
+2019/08/14 09:06:27 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: , request: "POST / HTTP/1.1", upstream: "http://127.0.0.1:3001/", host: "localhost:8080"
+2019/08/14 09:06:27 [error] 6#6: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: , request: "POST / HTTP/1.1", upstream: "http://127.0.0.1:3001/", host: "localhost:8080"
