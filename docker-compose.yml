@@ -23,3 +23,7 @@ services:
     container_name: server_2
     environment:
       - WHO=server_2
+
+  ws_server:
+    image: jmalloc/echo-server:latest
+    container_name: ws_server
