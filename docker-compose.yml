@@ -1,10 +1,10 @@
 version: '3'
 services:
   nginx: 
-    image: openresty/openresty:latest-alpine
+    image: openresty/openresty:latest
     container_name: nginx-reverse-proxy
     volumes:
-      - ./nginx.conf:/usr/local/openresty/nginx/conf/nginx.conf
+      - ./nginx:/etc/nginx/conf.d
     ports:
       - 8080:80
 
