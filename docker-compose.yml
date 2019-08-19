@@ -1,7 +1,7 @@
 version: '3'
 services:
   nginx: 
-    image: openresty/openresty:latest
+    image: openresty/openresty:latest-alpine
     container_name: nginx-reverse-proxy
     volumes:
       - ./nginx.conf:/usr/local/openresty/nginx/conf/nginx.conf
